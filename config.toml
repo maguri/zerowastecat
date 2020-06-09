@@ -1,9 +1,9 @@
 # default configuration
-baseURL = "http://www.zerowastecat.org"
+baseURL = "https://www.zerowastecat.org"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Zero Waste | Catalunya"
+title = "Zero Waste Catalunya"
 
 # css plugins
 [[params.plugins.css]]
