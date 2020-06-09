@@ -16,17 +16,18 @@ env:
 before_install:
 - export GOPATH=$HOME/go
 - export PATH=$PATH:$GOPATH/bin
-- export HUGO_BIN=hugo_extended_0.66.0_Linux-64bit.tar.gz
+- export HUGO_BIN=hugo_0.69.0_Linux-64bit.tar.gz
 
 install:
-- wget https://github.com/gohugoio/hugo/releases/download/v0.66.0/$HUGO_BIN
+- wget https://github.com/gohugoio/hugo/releases/download/v0.69.0/$HUGO_BIN
 - tar -xvf $HUGO_BIN
 - sudo mv hugo /usr/bin/
 
 script:
-- hugo
+- hugo version
+- hugo -s $TRAVIS_BUILD_DIR
 - ls -la public
-- echo "www.zerowastecat.org" >> $TRAVIS_BUILD_DIR/public/CNAME
+- echo "https://www.zerowastecat.org" >> $TRAVIS_BUILD_DIR/public/CNAME
 
 deploy:
   provider: pages
