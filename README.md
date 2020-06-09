@@ -1,4 +1,4 @@
-# Zero Waste Catalonia Organization website
+# Zero Waste Catalonia Organization website [![Build Status](https://travis-ci.org/maguri/zerowastecat.svg?branch=master)](https://travis-ci.org/maguri/zerowastecat)
 website builded with kross hugo theme.
 
 ### Theme repository
