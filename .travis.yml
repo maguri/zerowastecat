@@ -24,7 +24,8 @@ install:
 - sudo mv hugo /usr/bin/
 
 script:
-- hugo -s .
+- hugo
+- ls -la public
 - echo "www.zerowastecat.org" >> $TRAVIS_BUILD_DIR/public/CNAME
 
 deploy:
