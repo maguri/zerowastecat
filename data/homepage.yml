@@ -1,52 +1,52 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "Zero Waste <br> Catalunya <br>"
 
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "ZeroWaste és viure sense generar residus. ZeroWasteCat és una organització fundada desde la humilitat amb l'objectiu de generar conciència per la mare terra. Volem difondre la cultura pel medi-ambient i ajudar a generar aquest efecte dominó que entre tots aconseguirà canviar la manera de fer les coses."
   button:
     enable : true
-    label : "know more"
+    label : "Saber més"
     URL : "about"
 
 # skill
 skill:
   enable : true
-  title : "Skills"
+  title : "Iniciatives"
   item:
-    - title : "Web Design"
+    - title : "Compromís"
       progress : "90%"
       color : "#fdb157"
-      
-    - title : "Logo Design"
+
+    - title : "Neteja"
       progress : "60%"
       color : "#9473e6"
-      
-    - title : "After Effects"
+
+    - title : "ZeroWaste"
       progress : "80%"
       color : "#bdecf6"
-      
-    - title : "Web App"
+
+    - title : "Comunitat"
       progress : "70%"
       color : "#ffbcaa"
 
 # experience
 experience:
   enable : true
-  title : "Experience"
-  item: 
+  title : "Events"
+  item:
     - logo : "images/experience/icon-1.png"
       title : "Junior UX Designer"
       company : "WEBEX"
       duration : "Jan 2007 - Feb 2009"
-      
+
     - logo : "images/experience/icon-2.png"
       title : "UX & UI Designer"
       company : "AUGMEDIX"
       duration : "Mar 2009 - Aug 2014"
-      
+
     - logo : "images/experience/icon-1.png"
       title : "Senior UI Designer"
       company : "THEMEFISHER"
@@ -55,42 +55,42 @@ experience:
 # education
 education:
   enable : true
-  title : "Education"
+  title : "Reptes"
   item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
-      
-    - title : "Honours in Fine Arts"
-      year : "2004"
-      academy : "Harvard University"
-      
-    - title : "Higher Secondary Certificat"
-      year : "2000"
-      academy : "Cardiff School"
-      
-    - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
+    - title : "Consumir producte de proximitar"
+      year : "Diari"
+      academy : "Contactar amb productors locals y ecològics"
+
+    - title : "Recollida de brossa"
+      year : "Mensual"
+      academy : "Organitzar recollides de residus en grup en espais naturals"
+
+    - title : "Eliminar els pàstic d'un sol us"
+      year : "Diari"
+      academy : "Generar conciencia en reduir el consum de plàstic"
+
+    - title : "Plantar abres (2020)"
+      year : "Anual"
+      academy : "Fés una donació per ajudar-nos a plantar +1000 abres aquest 2020"
 
 # service
 service:
   enable : true
-  title : "Services"
+  title : "Serveis"
   item:
-    - title : "UI Design"
+    - title : "Sóc Comprador"
       icon : "ti-palette"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "Compra productes ecològics zerowaste a diferents productors locals."
       highlighted : false
 
-    - title : "UX Design"
+    - title : "Sóc Productor"
       icon : "ti-vector"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "Promociona't amb nosaltres com a productor local i amplia la teva xarxa de clients directes."
       highlighted : true
 
-    - title : "Interaction Design"
+    - title : "Vull aprendre"
       icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "Et donem consells i t'animem a introduirte en el món del zero waste per a beneficiar-te mentres benefícies i cuides la Terra."
       highlighted : false
 
 # portfolio
@@ -103,22 +103,22 @@ portfolio:
 # testimonial
 testimonial:
   enable : true
-  title : "Testimonials"
+  title : "Col·laboradors"
   item:
-    - name : "Jesica Gomez"
+    - name : "Oriol Mauri"
       image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
+      designation : "Co-Funder"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-      
-    - name : "Shirley Scot"
+
+    - name : "Núria Mauri"
       image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
+      designation : "Co-Funder"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-      
-    - name : "Jessica Julie"
+
+    - name : "Germán Mauri"
       image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      designation : "Partner"
+      content : "Ajudar a aquest petit propjecte em dona esperances per creure en un futur millor per al nostre planeta. Cuidar als nostres implica cuidar l'entorn que ens envolta."
 
 # client logo slider
 clients_logo_slider:
@@ -126,36 +126,36 @@ clients_logo_slider:
   item:
     - logo : "images/clients-logo/client-logo-1.png"
       URL : "http://examplesite.com"
-      
+
     - logo : "images/clients-logo/client-logo-2.png"
       URL : "#"
-      
+
     - logo : "images/clients-logo/client-logo-3.png"
       URL : "http://examplesite.com"
-      
+
     - logo : "images/clients-logo/client-logo-4.png"
       URL : "#"
-      
+
     - logo : "images/clients-logo/client-logo-5.png"
       URL : "http://examplesite.com"
-      
+
     - logo : "images/clients-logo/client-logo-1.png"
       URL : "#"
-      
+
     - logo : "images/clients-logo/client-logo-2.png"
       URL : "http://examplesite.com"
-      
+
     - logo : "images/clients-logo/client-logo-3.png"
       URL : "#"
-      
+
     - logo : "images/clients-logo/client-logo-4.png"
       URL : "http://examplesite.com"
-      
+
     - logo : "images/clients-logo/client-logo-5.png"
       URL : "#"
 
 # blog
 blog:
   enable : true
-  title : "Blogs"
+  title : "Articles"
   # blog post comes from "content/blog" folder
