@@ -50,9 +50,9 @@ weight = 4
 # default parameters
 [params]
 home = "Home"
-logo = "images/logo.png"
+logo = "images/logo.svg"
 # theme color
-theme_color = "#41228e"
+theme_color = "#20c997"
 # contact info
 phone = ""
 email = "oriol.mauri.guiu@gmail.com"
@@ -68,7 +68,7 @@ copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothe
 
 # contact
 [params.contact]
-enable = true
+enable = false
 form_action = "#" # contact form works with : https://formspree.io
 
 # preloader
@@ -79,16 +79,12 @@ preloader = "" # use png, jpg, svg or gif format
 # social site
 [[params.social]]
 icon = "ti-facebook"
-URL = "#"
+URL = "https://www.facebook.com/zerowastecat.org"
 
 [[params.social]]
 icon = "ti-instagram"
-URL = "#"
-
-[[params.social]]
-icon = "ti-dribbble"
-URL = "#"
+URL = "https://www.instagram.com/zerowaste.cat/"
 
 [[params.social]]
 icon = "ti-twitter-alt"
-URL = "#"
+URL = "https://twitter.com/search?q=zerowaste"

@@ -34,7 +34,7 @@ skill:
 
 # experience
 experience:
-  enable : true
+  enable : false
   title : "Events"
   item:
     - logo : "images/experience/icon-1.png"
@@ -90,7 +90,7 @@ service:
 
     - title : "Vull aprendre"
       icon : "ti-panel"
-      content : "Et donem consells i t'animem a introduirte en el món del zero waste per a beneficiar-te mentres benefícies i cuides la Terra."
+      content : "Et donem consells i t'animem a introduirte en el món del zero waste per a beneficiar-te a tu, als altres, i cuides la Terra."
       highlighted : false
 
 # portfolio
@@ -124,7 +124,7 @@ testimonial:
 clients_logo_slider:
   enable : true
   item:
-    - logo : "images/clients-logo/client-logo-1.png"
+    - logo : "images/clients-logo/client-logo-6.png"
       URL : "http://examplesite.com"
 
     - logo : "images/clients-logo/client-logo-2.png"
@@ -156,6 +156,6 @@ clients_logo_slider:
 
 # blog
 blog:
-  enable : true
+  enable : false
   title : "Articles"
   # blog post comes from "content/blog" folder
