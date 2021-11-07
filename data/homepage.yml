@@ -5,7 +5,7 @@ banner:
 # about
 about:
   enable : true
-  content : "ZeroWaste és viure sense generar residus. ZeroWasteCat és una organització fundada desde la humilitat amb l'objectiu de generar conciència per la mare terra. Volem difondre la cultura pel medi-ambient i ajudar a generar aquest efecte dominó que entre tots aconseguirà canviar la manera de fer les coses."
+  content : "Tornem a fer les coses com abans. ZeroWaste és viure sense generar residus. ZeroWasteCat és una organització fundada des de la humilitat amb l'objectiu de generar consciència per la mare terra. Volem difondre la cultura pel medi-ambient i ajudar a generar aquest efecte dominó que entre tots aconseguirà canviar la manera de fer les coses."
   button:
     enable : true
     label : "Saber més"
@@ -20,8 +20,8 @@ skill:
       progress : "90%"
       color : "#fdb157"
 
-    - title : "Neteja"
-      progress : "60%"
+    - title : "Economía Circular"
+      progress : "100%"
       color : "#9473e6"
 
     - title : "ZeroWaste"
@@ -61,26 +61,26 @@ education:
       year : "Diari"
       academy : "Contactar amb productors locals y ecològics"
 
-    - title : "Recollida de brossa"
+    - title : "Fer un pas enrere és avançar"
       year : "Mensual"
       academy : "Organitzar recollides de residus en grup en espais naturals"
 
-    - title : "Eliminar els pàstic d'un sol us"
+    - title : "Eliminar els plàstic d'un sol us"
       year : "Diari"
-      academy : "Generar conciencia en reduir el consum de plàstic"
+      academy : "Generar conciència en reduir el consum de plàstics"
 
-    - title : "Plantar abres (2020)"
+    - title : "Plantar abres (2022)"
       year : "Anual"
-      academy : "Fés una donació per ajudar-nos a plantar +1000 abres aquest 2020"
+      academy : "Fés una donació per ajudar-nos a plantar +1000 abres aquest 2022"
 
 # service
 service:
   enable : true
   title : "Serveis"
   item:
-    - title : "Sóc Comprador"
+    - title : "Sóc Consumidor"
       icon : "ti-palette"
-      content : "Compra productes ecològics zerowaste a diferents productors locals."
+      content : "No només comprar productes ecològics de proximitat és la solució. Aprén a reutilitzar i a donar una següent vida a les coses."
       highlighted : false
 
     - title : "Sóc Productor"
@@ -90,13 +90,13 @@ service:
 
     - title : "Vull aprendre"
       icon : "ti-panel"
-      content : "Et donem consells i t'animem a introduirte en el món del zero waste per a beneficiar-te a tu, als altres, i cuides la Terra."
+      content : "Mira al BLOG. Et donem consells i t'animem a introduir-te en el món del zero waste per a beneficiar-te a tu, als altres, i cuides la Terra."
       highlighted : false
 
 # portfolio
 portfolio:
   enable : true
-  title : "Portfolio"
+  title : "Galeria de contingut"
   item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
 
@@ -106,19 +106,19 @@ testimonial:
   title : "Col·laboradors"
   item:
     - name : "Oriol Mauri"
-      image : "images/testimonial/client-1.png"
+      image : "images/testimonial/client-1.jpg"
       designation : "Co-Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      content : "Jo crec en les persones i en que la majoria som capaços de combatre contra aquells que només es mouen pel poder i l'avarícia dels diners. Sense Planeta, no hi ha futur."
 
     - name : "Núria Mauri"
       image : "images/testimonial/client-1.png"
       designation : "Co-Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-    - name : "Germán Mauri"
-      image : "images/testimonial/client-1.png"
-      designation : "Partner"
       content : "Ajudar a aquest petit propjecte em dona esperances per creure en un futur millor per al nostre planeta. Cuidar als nostres implica cuidar l'entorn que ens envolta."
+
+    - name : "¿Vols ser tu?"
+      image : "images/testimonial/client-2.png"
+      designation : "Futur Col·laborador"
+      content : "Si veus una mica de llum al final del túnel, contacta amb nosaltres i posa el teu granet d'arena per ajudar a difondre el projecte."
 
 # client logo slider
 clients_logo_slider:

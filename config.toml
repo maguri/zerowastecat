@@ -5,6 +5,9 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Zero Waste Catalunya"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 # css plugins
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
@@ -38,12 +41,12 @@ weight = 2
 
 [[menu.main]]
 URL = "portfolio"
-name = "Portfolio"
+name = "Fotos"
 weight = 3
 
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contacte"
 weight = 4
 
 
@@ -54,16 +57,16 @@ logo = "images/logo.svg"
 # theme color
 theme_color = "#20c997"
 # contact info
-phone = ""
-email = "oriol.mauri.guiu@gmail.com"
-address = "La Vall de l'Arrabassada, Tarragona, Catalunya, Spain"
+phone = "Pel's amics"
+email = "@zerowaste.cat"
+address = "La Vall de l'Arrabassada, Tarragon, Catalunya"
 # meta description
-author = "Oriol Mauri Guiu"
-description = "This is meta description"
+author = "Oriol Guiu"
+description = "El tiempo para reaccionar se acaba!"
 # google analytics
 google_analytics_id = "" # Your ID
 # copyright
-copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; theme by hugo"
 
 
 # contact

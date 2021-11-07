@@ -1,13 +1,16 @@
 ---
-title: "About"
-description: "This is meta description."
+title: "Nosaltres"
+description: "Emprendedor para el futuro del planeta."
 author_image : "images/about/author.jpg"
 author_signature : "images/about/signature.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Hola, de moment estic jo sol, però em sento acompanyat de tota aquella gent que creu amb els mateixos valors que jo.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+Vull creure que les persones tenim solució, confio en la humanitat i junts podrem derrocar als avariciosos que només es mouen per l'ambició del poder i els diners. Siguem més ambiciosos que ells i ambicionem un futur sostenible i sense residus.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+#### Cuidem casa nostra, el nostre barri, el nostre país, el nostre planeta.
+<div align="center">
+  <h5>¡La mare terra ens necessita!</h5>
+</div>

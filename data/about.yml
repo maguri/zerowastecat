@@ -5,15 +5,15 @@ work_process:
   item:
   - title : "Objectius"
     icon : "images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
+    content : "Si vols canviar el món, primer canvia't a tu mateix, després intenta canviar al teu entorn, i que aquests facin el mateix."
+
   - title : "Educació"
     icon : "images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
+    content : "Arribant a les escoles a través dels professors, Forjarem els responsables del demà per a viure dins dels valors zerowaste."
+
   - title : "Estatuts"
     icon : "images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Amb assessors que altruistament ens ajudin a redactar els estatuts farem d'aquesta una organització legal i amb veu."
 
 
 # team
@@ -24,11 +24,11 @@ team:
     - title : "Jack Schenziwe"
       image : "images/team/member-1.png"
       designation : "Project Manager"
-      
+
     - title : "Julias Carlie"
       image : "images/team/member-2.png"
       designation : "Web Developer"
-      
+
     - title : "John Doe"
       image : "images/team/member-3.png"
       designation : "Designer"

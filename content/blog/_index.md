@@ -1,5 +1,5 @@
 ---
 title: "Blog"
-description: "This is meta description."
+description: "Aprender a reutilizar las cosas."
 draft: false
 ---

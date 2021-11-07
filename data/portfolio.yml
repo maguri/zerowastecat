@@ -2,19 +2,19 @@
 item:
   - title : "C de l'hort"
     image : "images/portfolio/C.png"
-    project_url : "https://www.instagram.com/p/CCnt8Niomxz/"
+    project_url : "https://www.instagram.com/zerowaste.cat/"
     categories: ["instagram","hort"]
-  
+
   - title : "A de l'hort"
     image : "images/portfolio/A.png"
-    project_url : "https://www.instagram.com/p/CCbAkC0IH_p/"
+    project_url : "https://www.zerowastecat.org/blog/"
     categories: ["instagram","hort"]
 
   - title : "T de l'hort"
     image : "images/portfolio/T.png"
     project_url : "https://www.instagram.com/p/CCYpvAEo6ll/"
     categories: ["instagram","hort"]
-      
+
 
 
 # client logo slider
