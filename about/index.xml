@@ -5,10 +5,6 @@
     <link>https://www.zerowastecat.org/about/</link>
     <description>Recent content in Nosaltres on Zero Waste Catalunya</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>cat-es</language>
-    
-	<atom:link href="https://www.zerowastecat.org/about/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>cat-es</language><atom:link href="https://www.zerowastecat.org/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
